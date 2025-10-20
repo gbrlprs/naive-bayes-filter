@@ -1,6 +1,6 @@
-# SMS Spam Filter using Naïve Bayes
+# SMS Unsolicited Mail Filter using Naïve Bayes
 
-a machine learning spam filter that classifies SMS messages as spam or ham using the Naïve Bayes algorithm. this project demonstrates text preprocessing, feature extraction, model training, and classification.
+this is a project of machine learning spam filter that classifies SMS messages as unsolicited mail or proper mail using the Naive Bayes algorithm. this project demonstrates text preprocessing, feature extraction, model training, and classification. this project was made as 2/3 parts of the Johns Hopkins University's specialization on AI and Cybersecurity, specifically Part 2: Advanced Malware and Network Anomaly Detection.
 
 ## overview
 
@@ -28,7 +28,7 @@ this spam filter tool processes SMS text messages and determines whether they ar
 
 1. **clone the repository:**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/gbrlprs/naive-bayes-filter/
    cd sms-spam-filter
    ```
 
